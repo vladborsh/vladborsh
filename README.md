@@ -1,4 +1,3 @@
-## I'm Vlad
 JS Software engineer. Got many years of experience, but who cares
 
 ### What I usually do
@@ -6,13 +5,7 @@ JS Software engineer. Got many years of experience, but who cares
 - 🟨 JS projects
 - 🅰️ Do somth with Angular (just for living)
 - 🤖 Chat bots (mostly TG)
-- 📉📈 Trading (non-profit)
-
-### What I like
-
-- 🐈 Pets
-- 📉📈 Trading (for profit)
-- 🎹 Music
+- 📉📈 Trading (no profit, just gambling)
 
 ### Platforms
 
