@@ -5,7 +5,7 @@ JS Software engineer. Got many years of experience, but who cares
 - 🟨 JS projects
 - 🅰️ Do somth with Angular (just for living)
 - 🤖 Chat bots (mostly TG)
-- 📉📈 Trading (no profit, just gambling)
+- 📉📈 Trading (non-profit, only gambling)
 
 ### Platforms
 
