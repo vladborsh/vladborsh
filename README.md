@@ -3,9 +3,9 @@ If you're looking for someone to build a Software, I'm your man. But beware, I h
 ### What I usually do
 
 - 🟨 JS projects
-- 🅰️ Do somth with Angular (just for living)
-- 🤖 Chat bots (mostly TG)
-- 📉📈 Trading (non-profit, only gambling)
+- 🅰️ Angular projects (just for living)
+- 🤖 TG Chat bots
+- 📉📈 Trading (only gambling)
 
 ### Platforms
 
@@ -13,4 +13,3 @@ If you're looking for someone to build a Software, I'm your man. But beware, I h
 | -------- | ------- |
 | codewars | ![https://www.codewars.com/users/vladborsh/badges/large](https://www.codewars.com/users/vladborsh/badges/micro)|
 
-Not so many I know...
