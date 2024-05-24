@@ -1,9 +1,9 @@
-If you're looking for someone to build a Software, I'm your man. But beware, I have a certain set of skills. 
+If you're looking for someone to build a Software, I'm your man.
 
 ### What I usually do
 
 - 🟨 JS projects
-- 🅰️ Angular projects (just for living)
+- 🅰️ Angular application (just for living)
 - 🤖 TG Chat bots
 - 📉📈 Trading (only gambling)
 
